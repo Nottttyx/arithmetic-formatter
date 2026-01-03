@@ -1,4 +1,4 @@
-def arithmetic_arranger(problems, show_answers=False):
+def arithmetic_formatter(problems, show_answers=False):
     first_line = ''
     second_line = ''
     dash_line = ''
@@ -39,4 +39,4 @@ def arithmetic_arranger(problems, show_answers=False):
 N = input("Insert your problems here (comma-separated): ")
 # convert the input string into a list of problem strings
 problems = [p.strip() for p in N.split(',') if p.strip()]
-print(arithmetic_arranger(problems, True))
+print(arithmetic_formatter(problems, True))
